@@ -1,0 +1,13 @@
+filename = 'radium-mc1.20.5-0.12.5-hotfix+git.2b74993.jar'
+name = 'Radium Reforged'
+side = 'both'
+
+[download]
+hash = 'bbea38f4c71e95ba8897d47d310ea72cf4de20d9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5310439
+project-id = 570017
